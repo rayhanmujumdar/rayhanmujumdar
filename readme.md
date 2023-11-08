@@ -3,11 +3,11 @@ Two-year journey in web development with expertise in both frontend and server-s
 
 **Technical Proficiencies:**
 
-**Frontend Development**: `ReactJS`, `Redux`
-**Backend Development**: `Node.js`, `Express.js`
-**Database**: `MongoDB(database)`, `Mongoose(ODM)`
-**Responsive Web Design**: `Mobile-first approach`, `Bootstrap`, `Tailwind CSS`, `Media Queries`
-**Version Control**: `Git`, `GitHub`
+**Frontend Development**: `ReactJS`, `Redux`,
+**Backend Development**: `Node.js`, `Express.js`,
+**Database**: `MongoDB(database)`, `Mongoose(ODM)`,
+**Responsive Web Design**: `Mobile-first approach`, `Bootstrap`, `Tailwind CSS`, `Media Queries`,
+**Version Control**: `Git`, `GitHub`,
 
-## Contact email:
-rayhanmujumdar0177@gmail.com
+### Contact email:
+[rayhanmujumdar0177@gmail.com](rayhanmujumdar0177@gmail.com)
